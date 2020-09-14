@@ -1,4 +1,5 @@
-# Angularauth
+# Login and full working app
+ jwt auth, route guards, child route , auxilliary route, lazy loading (AT THIS TIME IT USES FAKE BACKEND SO NO REAL EMAIL'S WILL BE SENT BUT FRONTEND APP WORKS WITH ALL ANGULAR FEATURES IN PLACE)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.5.
 
